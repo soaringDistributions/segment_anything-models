@@ -30,12 +30,14 @@ https://github.com/soaringDistributions/segment-anything/blob/main/LICENSE
 
 
 https://huggingface.co/vietanhdev/segment-anything-onnx-models
+ ... 
 	'Converted with samexporter.'
 	...
 	No explicit license stated. Would inherit the 'Apache 2.0 license' of the upstream 'segment-anything' model and source code.
 
 
 https://github.com/vietanhdev/anylabeling-assets
+ ... 
 	No explicit license stated.  Would inherit the 'Apache 2.0 license' of the upstream 'segment-anything' model and source code.
 
 
